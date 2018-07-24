@@ -298,9 +298,9 @@
   <div class="row">
     <div class="col-md-4">
       <p>Our Address</p>
-      <p><span class="glyphicon glyphicon-map-marker"></span> &nbsp;Ojas Innovative Technologies Pvt Ltd,Hyderabad, Telangana 500008</p>
-      <p><span class="glyphicon glyphicon-phone"></span>Phone: 040 4143 0000</p>
-      <p><span class="glyphicon glyphicon-envelope"></span>Email: Ojas@gmail.com</p>
+      <p><span class="glyphicon glyphicon-map-marker"></span> &nbsp;XYZ Pvt Ltd,Hyderabad, Telangana </p>
+      <p><span class="glyphicon glyphicon-phone"></span>Phone: 0009991234</p>
+      <p><span class="glyphicon glyphicon-envelope"></span>Email: xyz@gmail.com</p>
     </div>
     <div class="col-md-8">
       <div class="row">
@@ -334,7 +334,7 @@
 <div id="googleMap"></div>
 <script>
 function myMap() {
-var myCenter = new google.maps.LatLng(17.422246, 78.381586);
+var myCenter = new google.maps.LatLng(17.372396, 78.485864);
 var mapProp = {center:myCenter, zoom:13, scrollwheel:false, draggable:false, mapTypeId:google.maps.MapTypeId.ROADMAP};
 var map = new google.maps.Map(document.getElementById("googleMap"),mapProp);
 var marker = new google.maps.Marker({position:myCenter});
