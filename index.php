@@ -68,11 +68,7 @@
       <div class="carousel-caption">
       </div>
     </div>
-    <div class="item">
-      <img src="images/4.jpeg" alt="4" style="width:100%;">
-      <div class="carousel-caption">
-      </div>
-    </div>
+   
   
     </div>
     
